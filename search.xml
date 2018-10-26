@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>xx</title>
+      <link href="/2018/10/25/xx/"/>
+      <url>/2018/10/25/xx/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>markdown语法</title>
+      <link href="/2018/10/25/markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/2018/10/25/markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>…..</p><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p><a href="http://www.baidu.com" target="_blank" rel="noopener">点我</a>跳转到百度</p><p><a href="链接地址">连接名字</a></p><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1540442768781&amp;di=fed76e3427a4fc19c16114ba1b3906dc&amp;imgtype=jpg&amp;src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D2051834251%2C4262878379%26fm%3D214%26gp%3D0.jpg" alt="图片名字"></p><h1 id="图片链接"><a href="#图片链接" class="headerlink" title="图片链接"></a>图片链接</h1><p><a href="超链接"><img src="图片地址" alt="图片名称"></a>]</p><h1 id="文本修饰"><a href="#文本修饰" class="headerlink" title="文本修饰"></a>文本修饰</h1><p><em>文本倾斜</em><br><strong>文本加粗</strong><br><strong><em>加粗倾斜效果</em></strong><br><del>删除线</del></p><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><h2 id="三个或者三个以上的-或者"><a href="#三个或者三个以上的-或者" class="headerlink" title="三个或者三个以上的-或者*"></a>三个或者三个以上的-或者*</h2><hr><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><p>1.c<br>2.cb<br>3.cbb</p><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><p>以一个- + *开头的</p><ul><li>列表1</li><li>列表2</li><li>列表3</li></ul><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th>姓名</th><th>排行</th><th>特长</th></tr></thead><tbody><tr><td>刘德华</td><td>老大</td><td>电影</td></tr><tr><td>周杰伦</td><td>2哥</td><td>唱歌</td></tr></tbody></table><h1 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h1><pre><code class="javascript">while (alive){    code();eat();sleep();}</code></pre><pre><code class="css">body{    color:red;    font-size:15px;}</code></pre><pre><code class="bash"># 初始化博客项目hexo init biog# 切换到博客路径cd biog# 安装依赖包npm install# 启动hexo服务hexo s</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>今日毒鸡汤</title>
+      <link href="/2018/10/24/%E4%BB%8A%E6%97%A5%E6%AF%92%E9%B8%A1%E6%B1%A4/"/>
+      <url>/2018/10/24/%E4%BB%8A%E6%97%A5%E6%AF%92%E9%B8%A1%E6%B1%A4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="船到桥头自然沉"><a href="#船到桥头自然沉" class="headerlink" title="船到桥头自然沉"></a>船到桥头自然沉</h2><h2 id="你不努力几哈，都不晓得自己多垃圾"><a href="#你不努力几哈，都不晓得自己多垃圾" class="headerlink" title="你不努力几哈，都不晓得自己多垃圾"></a>你不努力几哈，都不晓得自己多垃圾</h2><h2 id="当你自己觉得自己又穷又丑的时候，不要悲伤不要绝望，没错那就是你自己"><a href="#当你自己觉得自己又穷又丑的时候，不要悲伤不要绝望，没错那就是你自己" class="headerlink" title="当你自己觉得自己又穷又丑的时候，不要悲伤不要绝望，没错那就是你自己"></a>当你自己觉得自己又穷又丑的时候，不要悲伤不要绝望，没错那就是你自己</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>你好，cbb</title>
+      <link href="/2018/10/24/hello-world/"/>
+      <url>/2018/10/24/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>今天是个好日子</p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+</search>
